@@ -83,8 +83,6 @@
 		F7E3B71917C2B8F7004220D7 /* Typer */ = {
 			isa = PBXGroup;
 			children = (
-				F7E3B72217C2B8F8004220D7 /* AppDelegate.h */,
-				F7E3B72317C2B8F8004220D7 /* AppDelegate.m */,
 				F7E3B72B17C2B8F8004220D7 /* MainStoryboard.storyboard */,
 				F7E3B72E17C2B8F8004220D7 /* ViewController.h */,
 				F7E3B72F17C2B8F8004220D7 /* ViewController.m */,
@@ -96,6 +94,8 @@
 		F7E3B71A17C2B8F7004220D7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F7E3B72217C2B8F8004220D7 /* AppDelegate.h */,
+				F7E3B72317C2B8F8004220D7 /* AppDelegate.m */,
 				F7E3B71B17C2B8F7004220D7 /* Typer-Info.plist */,
 				F7E3B71C17C2B8F7004220D7 /* InfoPlist.strings */,
 				F7E3B71F17C2B8F8004220D7 /* main.m */,
